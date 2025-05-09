@@ -37,3 +37,9 @@ Me chamo Walox e sou programador júnior **Front-End**. Embora meu foco principa
 - Fui responsável pelo **desenvolvimento Front-End**, criando layouts modernos e responsivos.
 - A plataforma tem como objetivo **conectar Talentos a Empresas**.
 - O sistema oferece duas opções de entrada: **Talento** ou **Empresa**.
+
+---
+
+## Informações para Contato
+
+📧 [waloxgustavo007@gmail.com](mailto:waloxgustavo007@gmail.com)
