@@ -11,8 +11,11 @@ em desenvolvimento no Back-End. Meu intuito é entregar a solução para o desaf
   <li>Javascript</li>
   <li>Typescript</li>
   <li>React</li>
-  <li>Node</li>
+  <li>NodeJS</li>
+  <li>Express</li>
   <li>Tailwind</li>
   <li>NextJS</li>
   <li>PHP</li>
 </ul>
+
+<h1>Projetos:<h1/>
