@@ -18,7 +18,24 @@ em desenvolvimento no Back-End. Meu intuito é entregar a solução para o desaf
   <li>PHP</li>
 </ul>
 
-<h1>Projetos:<h1/>
+# Projetos
 
-<h1>Coffe Delivery:<h1/> Coffe Delivery é uma plataforma onde busca pelo seu café de acordo com sua localização. Plataforma desenvolvida em NextJS, todo o Front-End, no Back-End eu usei o NodeJS e Express juntamente com o MongoDB e Prisma. A plataforma está responsiva e está com Login e Cadastro, salvando seu perfil no Banco de Dados. A plataforma está em desenvolvimento mas já está no ar
+## Coffee Delivery
+
+**Coffee Delivery** é uma plataforma que busca cafés de acordo com a sua localização.
+
+- Desenvolvida em **Next.js** (Front-End).
+- No **Back-End**, utilizei **Node.js** com **Express**, **MongoDB** e **Prisma**.
+- A plataforma é **responsiva**, possui **login** e **cadastro**, e salva o perfil do usuário no banco de dados.
+- O projeto ainda está em **desenvolvimento**, mas já está no ar.
+
+---
+
+## Workzen
+
+**Workzen** foi um projeto de **TCC** realizado no Ensino Médio por quatro pessoas.
+
+- Fiquei responsável pelo **desenvolvimento Front-End**, criando layouts responsivos.
+- A plataforma **conecta Talentos a Empresas**.
+- O sistema oferece duas opções de entrada: **Talento** ou **Empresa**.
 
